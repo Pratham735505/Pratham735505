@@ -101,6 +101,7 @@ hobbies: [ "Cinema", "Music", "Sports","Coding","Exploring","Experiencing"]
 <p align="center"> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pratham735505&show_icons=true&theme=radical" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham735505&theme=radical" /> 
+![](https://github-readme-stats.vercel.app/api?username=Priyanshu-Batham&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 </p> 
 <p align="center"> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham735505&layout=compact&theme=radical" /> 
