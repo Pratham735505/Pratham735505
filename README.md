@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/6yjUEOHxZCev6/giphy.gif" alt="Greninja GIF" />
+  <img src="https://media.giphy.com/media/6yjUEOHxZCev6/giphy.gif" alt="Greninja GIF" height="1000" />
 </p>
 
 <p align="center">
