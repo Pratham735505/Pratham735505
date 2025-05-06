@@ -23,24 +23,7 @@
  
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/pratham735505">
-    <img height="50" src="[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pratham735505"/>
-  </a>
-  <img height="50" src="[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pratham735505"/>
-  <a href="www.linkedin.com/in/pratham-gupta-73a380255">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-cc76fae2-4701-415e-8d61-3a5e7a92716b.png"/>
-  </a>
-  <a href="https://instagram.com/pratham735505">
-    <img height="50" src="https://www.flaticon.com/free-icon/instagram_3955024"/>
-  </a>
-  <a href="https://leetcode.com/u/pratham735505">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/prathamgupnnhi/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect, maybe we can create, learn and grow together, </b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
