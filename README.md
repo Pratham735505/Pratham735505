@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60"> <em><b>Let's connect, maybe we can create, learn and grow together, </b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br/> <em><b>Let's connect, maybe we can create, learn and grow together, </b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 
 ---
