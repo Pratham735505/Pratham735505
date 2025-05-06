@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Konnichiwa🕹️&amp;animation=fadeIn&amp;type=waving&amp;color=gradient&amp;height=100" />
+  <img src="https://capsule-render.vercel.app/api?text=$whoami&amp;animation=fadeIn&amp;type=waving&amp;color=gradient&amp;height=100" />
 </p>
 
 
