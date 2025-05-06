@@ -4,6 +4,24 @@
 
 <h1 align="center">Pranam 🙏, I'm Pratham Gupta</h1>
 <h3 align="center">A Learner from Lucknow, India</h3>
+<p align="center">
+  <a href="https://leetcode.com/u/pratham735505/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/prathamgupnnhi/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="www.linkedin.com/in/pratham-gupta-73a380255">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/pratham735505">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/pratham735505">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+ 
+</p>
 
 <p align="center">
   <a href="https://twitter.com/pratham735505">
