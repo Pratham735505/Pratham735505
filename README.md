@@ -58,10 +58,7 @@ hobbies: [ "Cinema", "Music", "Sports","Coding","Exploring","Experiencing"]
 <p align="center"> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham735505&layout=compact&theme=radical" /> 
 </p>
-<p align="center"> 
-  <img src="https://github.com/pratham735505/pratham735505/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/> 
-  <img src="![snake gif](https://github.com/pratham735505/pratham735505/blob/output/github-snake-dark.svg)" alt="snake animation"/> 
-</p>
+
 
 
 <p align="center">
