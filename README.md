@@ -43,7 +43,6 @@ fields_of_interests:
     "Web Development",
     "Robotics",
     "Machine Learning",
-    "UI/UX",
     "Blockchain"
   ]
 
