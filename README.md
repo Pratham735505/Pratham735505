@@ -60,7 +60,7 @@ hobbies: [ "Cinema", "Music", "Sports","Coding","Exploring","Experiencing"]
 </p>
 <p align="center"> 
   <img src="https://github.com/pratham735505/pratham735505/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/> 
-  <img src="![Snake animation](https://github.com/pratham735505/pratham735505/blob/output/github-contribution-grid-snake.svg)"/>
+  
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> 
