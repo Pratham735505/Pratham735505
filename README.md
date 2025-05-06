@@ -87,17 +87,6 @@ hobbies: [ "Cinema", "Music", "Sports","Coding","Exploring","Experiencing"]
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-```
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  template: markdown
-  filename: metrics.markdown.md
-  markdown: >-
-    https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.markdown.template.md
-  config_output: markdown
-  token: ${{ secrets.METRICS_TOKEN }}
-```
 <h2> 📈 &nbsp;My GitHub Stats</h2>
 <br>
 <p align="center"> 
