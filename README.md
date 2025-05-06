@@ -109,6 +109,9 @@ hobbies: [ "Cinema", "Music", "Sports","Coding","Exploring","Experiencing"]
   <img width="48%" src="[![trophy](https://github-profile-trophy.vercel.app/?username=pratham735505)](https://github.com/ryo-ma/github-profile-trophy)" /> 
 </p>
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/5SKwQMGTR1umLrKC7N/giphy.gif"  alt="Animated GIF" />
+</p>
 
 
 <p align="center">
