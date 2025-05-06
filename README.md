@@ -41,6 +41,7 @@
 name: Pratham Gupta
 located_in: Lucknow, India
 currently: Full Stack developer
+description: Just a guy who loves trying things, learning and improving
 education:
   [
     "Bachelors of Conputer Application",
