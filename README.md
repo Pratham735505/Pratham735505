@@ -110,7 +110,7 @@ hobbies: [ "Cinema", "Music", "Sports","Coding","Exploring","Experiencing"]
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/5SKwQMGTR1umLrKC7N/giphy.gif"  alt="Animated GIF" />
+  <img src="https://media3.giphy.com/media/5SKwQMGTR1umLrKC7N/giphy.gif" height="300%" width="300%" alt="Animated GIF" />
 </p>
 
 
