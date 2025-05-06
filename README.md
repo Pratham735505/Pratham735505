@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/6yjUEOHxZCev6/giphy.gif" width="250" alt="Waving GIF" />
+  <img src="https://media.giphy.com/media/6yjUEOHxZCev6/giphy.gif" alt="Greninja GIF" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=सर्वे%20अभिवादनं%20|%20konnichiwa%20|%20Hi%20everyone%20🕹️&amp;animation=fadeIn&amp;type=waving&amp;color=gradient&amp;height=100" />
+  <img src="https://capsule-render.vercel.app/api?text=Konnichiwa🕹️&amp;animation=fadeIn&amp;type=waving&amp;color=gradient&amp;height=100" />
 </p>
 
 
