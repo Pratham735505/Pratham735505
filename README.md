@@ -47,6 +47,6 @@ fields_of_interests:
     "Blockchain"
   ]
 
-hobbies: [ "Cinema", "Music", "Sports","Coding"]
+hobbies: [ "Cinema", "Music", "Sports","Coding","Exploring","Experiencing"]
 
 ```
