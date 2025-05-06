@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=सर्वे अभिवादनं !🕹️ /n konnichiwa /n Hi everyone &animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=सर्वे अभिवादनं | konnichiwa | Hi everyone 🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <h1 align="center">Pranam 🙏, I'm Pratham Gupta</h1>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect, maybe we can create, learn and grow together, </b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 
 ---
@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
