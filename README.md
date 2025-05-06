@@ -1,5 +1,6 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm84M252Nm5jcXBhNGFidW9qcWN5bmZ1Y3ptdjdxM2Q5NDd6cm53ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6yjUEOHxZCev6/giphy.gif " align="center"/>
+
 <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm84M252Nm5jcXBhNGFidW9qcWN5bmZ1Y3ptdjdxM2Q5NDd6cm53ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6yjUEOHxZCev6/giphy.gif " />
   <img src="https://capsule-render.vercel.app/api?text=सर्वे अभिवादनं | konnichiwa | Hi everyone 🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
