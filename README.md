@@ -26,7 +26,10 @@
   <a href="https://instagram.com/pratham735505">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
- 
+ <a href="https://www.chess.com/member/pratham735505" target="_blank">
+  <img src="https://img.shields.io/badge/Chess.com-00A94F?style=for-the-badge&logo=Chess.com&logoColor=white" alt="Chess.com"/>
+</a>
+
 </p>
 
 
@@ -55,7 +58,7 @@ fields_of_interests:
     "Blockchain"
   ]
 
-hobbies: [ "Cinema", "Music", "Sports","Coding","Exploring","Experiencing"]
+hobbies: [ "Cinema","Chess","Music", "Sports","Coding","Exploring","Experiencing"]
 ```
 <h2> 🚀 &nbsp;Tech Stack: </h2> 
 <p align="center">
