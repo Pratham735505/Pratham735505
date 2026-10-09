@@ -47,8 +47,12 @@ currently: Full Stack developer
 description: Just a guy who loves trying things, learning and improving
 education:
   [
-    "Bachelors of Conputer Application",
+    "Bachelors of Computer Application",
     "National Post Gradate College, (LU)"
+  ],
+  [
+    "Masters of Computer Application",
+    "NIT Kurukshetra"
   ]
 fields_of_interests:
   [
